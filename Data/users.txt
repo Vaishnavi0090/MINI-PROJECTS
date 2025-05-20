@@ -1,0 +1,9 @@
+1|Rahul Sharma|rahul@example.com|password123|Student
+2|Priya Patel|priya@example.com|student456|Student
+3|Amit Kumar|amit@example.com|secure789|Student
+4|Sneha Gupta|sneha@example.com|library321|Student
+5|Vikram Singh|vikram@example.com|books456|Student
+6|Dr. Anil Joshi|anil@faculty.com|faculty123|Faculty
+7|Prof. Meera Desai|meera@faculty.com|professor456|Faculty
+8|Dr. Rajesh Kumar|rajesh@faculty.com|teacher789|Faculty
+9|Mrs. Lakshmi Iyer|lakshmi@library.com|admin123|Librarian
